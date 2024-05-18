@@ -1,5 +1,3 @@
-
-
 const InputField = ({text, handleInput, handleSubmit}) => {
   return (
         <label>
